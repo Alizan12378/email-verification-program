@@ -1,0 +1,1 @@
+allow to use IP address to check the email input to input.txt exist or nif in other status e.g. no MX records will also show,outp2 files output.csv and output.txt, csv file main to import to some EDM software to use to reduce the bounce rate, output.txt for update to client database list.
